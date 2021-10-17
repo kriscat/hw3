@@ -1,0 +1,86 @@
+.title {
+  height: 350px;
+  width: 100%;
+  border: 2px groove black;
+  background-color: rgb(168, 109, 54);
+  border-radius: 3px;
+  font-family: "ink free";
+  text-align: center;
+  font-size: 35px;
+  font-weight: 700;
+  color: burlywood;
+  text-shadow: 1px 1px 1px black;
+}
+
+.pic {
+  margin-top: 5px;
+  width: 100%;
+}
+
+.one {
+  height: 350px;
+  width: 100%;
+}
+
+.ingredients {
+  height: 320px;
+  width: 43%;
+  border: 2px groove black;
+  background-color: rgb(168, 109, 54);
+  border-radius: 3px;
+}
+.ing1 {
+  font-size: 20px;
+  text-align: center;
+  font-weight: 700;
+  font-style: normal;
+}
+.ing2 {
+  float: left;
+  font-size: 18px;
+  font-style: italic;
+}
+.pic1 {
+  float: right;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.recipe {
+  height: 1970px;
+  width: 100%;
+  border: 2px groove black;
+  background-color: rgb(168, 109, 54);
+  border-radius: 3px;
+}
+
+.foto {
+  float: left;
+  width: 40%;
+  margin: 15px 15px 15px;
+}
+
+.description {
+  width: 45%;
+  float: right;
+  font-size: 18px;
+  font-style: italic;
+  padding: 100px 50px 175px 100px;
+}
+
+.bt {
+  text-align: center;
+}
+
+.button {
+  text-decoration: none;
+}
+
+.bu{
+  font-style: italic;
+  color: brown
+  border: 2px groove black;
+  background-color: rgb(165, 91, 22);
+  border-radius: 5px;
+}
